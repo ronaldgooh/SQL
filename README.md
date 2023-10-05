@@ -1,7 +1,7 @@
 # SQL
 This project involves constructing a database from an Excel dataset regarding mental health.
 
-1. Inside 'Database midterms.pdf,' you'll find the primary procedure for constructing a database from the ground up and executing queries to address specific inquiries.
+1. Inside 'Database midterms.pdf,' you'll find the steps taken for constructing a database from the ground up and executing queries to address specific inquiries.
 
 2. 'Database commands.sql' houses the SQL queries needed to establish the necessary tables.
 
