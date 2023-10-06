@@ -8,3 +8,5 @@ This project involves constructing a database from an Excel dataset regarding me
 3. 'ER model.erdplus' presents a visual representation of the Entity-Relationship Model, illustrating the entities and their relationships.
 
 4. 'ER diagram.pdf' displays the graphical representation of the Entity-Relationship diagram.
+
+5. 'mental health (cleaned).ipynb' demonstrates the data preprocessing procedures executed to refine the Excel dataset.
